@@ -1,0 +1,45 @@
+{
+  "..\\node_modules\\@supabase\\auth-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch": {
+    "id": 5070,
+    "files": []
+  },
+  "..\\node_modules\\@supabase\\functions-js\\dist\\module\\helper.js -> @supabase/node-fetch": {
+    "id": 5070,
+    "files": []
+  },
+  "..\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> @supabase/node-fetch": {
+    "id": 5070,
+    "files": []
+  },
+  "..\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> ws": {
+    "id": 710,
+    "files": [
+      "static/chunks/710.64607fd2919740dc.js"
+    ]
+  },
+  "..\\node_modules\\@supabase\\storage-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch": {
+    "id": 5070,
+    "files": []
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 9373,
+    "files": [
+      "static/chunks/373.a539079662da90e2.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 6348,
+    "files": [
+      "static/chunks/348.bb44194c000642c3.js"
+    ]
+  },
+  "pages\\index.tsx -> ../components/Card": {
+    "id": 6052,
+    "files": [
+      "static/chunks/fea29d9f.5afa0c2b2bf537b3.js",
+      "static/chunks/36d2f571.b48949138d599db4.js",
+      "static/chunks/359-fcf0eeece175be8b.js",
+      "static/chunks/52.630ad181e352ecd8.js"
+    ]
+  }
+}
